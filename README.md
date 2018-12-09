@@ -54,7 +54,7 @@ De Software
 ## Imagenes de Conexión
 
 ### Maqueta Vista Lateral
-<img style="width: 200px; height: 200px;" src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaLateral.jpeg">
+<img width="200px" height="200px" src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaLateral.jpeg">
 
 ### Maqueta Vista Superior
 <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaInclinada.jpeg">
