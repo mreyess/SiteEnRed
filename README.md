@@ -3,7 +3,7 @@ SITE EN RED
 
 Presentación
 === 
-<img src="https://github.com/mreyess/SiteEnRed/edit/master/1.png">
+<img src="https://github.com/mreyess/SiteEnRed/blob/master/1.PNG">
 
 Introducción
 ===
