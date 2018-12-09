@@ -1,6 +1,7 @@
 #SITE EN RED
 
-##Presentación
+## Presentación 
+<img src="https://github.com/mreyess/SiteEnRed/blob/master/1.PNG">
 
 ##Introducción
 El siguiente proyecto trata de un sistema de seguridad de un web site el cual simulara
