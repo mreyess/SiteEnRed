@@ -3,10 +3,7 @@ SITE EN RED
 
 Presentación
 === 
-
-![Presentación](relative/path/to/1.png?raw=true "Presentación")
-
-
+<img src="https://github.com/mreyess/SiteEnRed/edit/master/1.png">
 
 Introducción
 ===
