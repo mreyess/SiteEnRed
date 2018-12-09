@@ -2,9 +2,11 @@ SITE EN RED
 ===========
 
 Presentación
-.. image:: ../images/1.png
-  :alt:
-  :align: center
+=== 
+
+![Presentación](relative/path/to/1.jpg?raw=true "Title")
+
+
 
 Introducción
 ===
