@@ -1,9 +1,9 @@
-#SITE EN RED
+# SITE EN RED
 
 ## Presentación 
 <img src="https://github.com/mreyess/SiteEnRed/blob/master/1.PNG">
 
-##Introducción
+## Introducción
 El siguiente proyecto trata de un sistema de seguridad de un web site el cual simulara
 notificciones de alarmas, producidas por sensores tanto de humedad, temperatura, así como
 un sensor ultrasonico el cual detectara el movimiento de personal no autorizado.
@@ -20,7 +20,7 @@ Caracteristicas principales del sistema:
 * Los resultados para el usuario son mostrados en una página web
 * Si la puerta principal sel web site es abierta madnda una notificación de que alguien a ingresado
 
-##Maeriales
+## Maeriales
 De Hardware
 
 * Protoboard
@@ -51,4 +51,4 @@ De Software
 * Libreria Servo
 * Controlador de versiones GUIT
 
-##Imagenes del proyecto
+## Imagenes del proyecto
