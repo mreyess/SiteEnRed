@@ -2,7 +2,9 @@ SITE EN RED
 ===========
 
 Presentación
-![Sin imagen](https://www.geekfactory.mx/wp-content/uploads/2014/01/1.jpg)
+.. image:: ../images/1.png
+  :alt:
+  :align: center
 
 Introducción
 ===
