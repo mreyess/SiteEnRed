@@ -57,12 +57,12 @@ De Software
 * <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaLateral.jpeg">
 
 ### Maqueta Vista Superior
-* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaInclinada.jpeg">
+<img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaInclinada.jpeg">
 
 ### Conexión de sensores y placas.
-* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/EsquemaConexión1.jpeg">
+<img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/EsquemaConexión1.jpeg">
 
 ### Conexión Circuito con Maqueta
-* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/EsquemaConexión1.jpeg">
+<img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/EsquemaConexión1.jpeg">
 
 ## Imagenes del proyecto
