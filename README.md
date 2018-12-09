@@ -1,7 +1,7 @@
 # SITE EN RED
 
 ## Presentación 
-<img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/1.PNG">
+<img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/Presentacion.PNG">
 
 ## Introducción
 El siguiente proyecto trata de un sistema de seguridad de un web site el cual simulara
@@ -50,5 +50,19 @@ De Software
 * Libreria DTH
 * Libreria Servo
 * Controlador de versiones GUIT
+
+## Imagenes de Conexión
+
+### Maqueta Vista Lateral
+* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaLateral.jpeg">
+
+### Maqueta Vista Superior
+* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/VistaInclinada.jpeg">
+
+### Conexión de sensores y placas.
+* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/EsquemaConexión1.jpeg">
+
+### Conexión Circuito con Maqueta
+* <img src="https://github.com/mreyess/SiteEnRed/blob/master/Imagenes/EsquemaConexión1.jpeg">
 
 ## Imagenes del proyecto
