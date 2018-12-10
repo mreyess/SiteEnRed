@@ -5,7 +5,7 @@
 
 ## Introducción
 El siguiente proyecto trata de un sistema de seguridad de un web site el cual simulara
-notificciones de alarmas, producidas por sensores tanto de humedad, temperatura, así como
+alertas producidas por sensores tanto de humedad, temperatura, así como
 un sensor ultrasonico el cual detectara el movimiento de personal no autorizado.
 
 El sistema actual cumple con las siguientes requisitos:
@@ -15,6 +15,7 @@ El sistema actual cumple con las siguientes requisitos:
 * El sistema de control debe de mostrar estadísticas de los sensores y tomar acciones en consecuencia.
 
 Caracteristicas principales del sistema:
+* La aplicación desarrollada es en web, usando HTML
 * Enviara notifcaciones de alerta según el senso que se active
 * El sistema envia dichas notificaciones de forma automatizada
 * Los resultados para el usuario son mostrados en una página web
@@ -27,7 +28,6 @@ De Hardware
 * Arduino Uno
 * Placa shield etherned w5100
 * 1 servo motor sg90
-* 1 Push-Button
 * Sensor de humedad dht11
 * Sensor de temperatura lm35
 * Sensor ultrasonico HC-SR04
@@ -37,7 +37,6 @@ De Hardware
 * Cables Dupont(Jumpers) macho macho
 * Cables Dupont(Jumpers) hembra macho
 * Cable ethernet con conectores RJ-45
-* Cables de corriente
 * Cable USB para arduino
 * Computadora
 * Maqueta simuladora de web site
@@ -49,7 +48,7 @@ De Software
 * Libreria Ethernet
 * Libreria DTH
 * Libreria Servo
-* Controlador de versiones GUIT
+* Controlador de versiones GIT
 
 ## Imagenes de Conexión
 
