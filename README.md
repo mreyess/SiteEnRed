@@ -25,6 +25,7 @@ Caracteristicas principales del sistema:
 ## Descripción de tecnologias nuevas
 
 PLACA SHIELD ETHERNET W5100
+
 El shield provee un conector ethernet estándar RJ45. La ethernet shield dispone de unos conectores que
 permiten conectar a su vez otras placas encima y apilarlas sobre la placa Arduino.
 
@@ -34,6 +35,7 @@ Estos pines no pueden ser usados para e/s genéricas.
 El botón de reset en la shield resetea ambos, el W5100 y la placa Arduino.
 
 La shield contiene varios LEDs para información:
+
 * ON: indica que la placa y la shield están alimentadas
 * LINK: indica la presencia de un enlace de red y parpadea cuando la shield envía o recibe datos
 * 100M: indica la presencia de una conexión de red de 100 Mb/s (de forma opuesta a una de 10Mb/s)
@@ -41,6 +43,7 @@ La shield contiene varios LEDs para información:
 * TX: parpadea cuando el shield envía datos
 
 SENSOR ULTRASONICO HCSR04
+
 El HC-SR04 es un sensor de distancias por ultrasonidos capaz de detectar objetos y calcular la distancia a
 la que se encuentra en un rango de 2 a 450 cm. El sensor funciona por ultrasonidos y contiene toda la electrónica
 encargada de hacer la medición. Su uso es tan sencillo como enviar el pulso de arranque y medir la anchura del pulso
@@ -48,6 +51,7 @@ de retorno. De muy pequeño tamaño, el HC-SR04 se destaca por su bajo consumo, 
 que esta reemplazando a los sensores polaroid en los robots mas recientes.
 
 Caracteristicas:
+
 * Dimensiones del circuito: 43 x 20 x 17 mm
 * Tensión de alimentación: 5 Vcc
 * Frecuencia de trabajo: 40 KHz
