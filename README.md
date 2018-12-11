@@ -24,7 +24,7 @@ Caracteristicas principales del sistema:
 
 ## Descripción de tecnologias nuevas
 
-PLACA SHIELD ETHERNET W5100
+#### PLACA SHIELD ETHERNET W5100
 
 El shield provee un conector ethernet estándar RJ45. La ethernet shield dispone de unos conectores que
 permiten conectar a su vez otras placas encima y apilarlas sobre la placa Arduino.
@@ -42,7 +42,7 @@ La shield contiene varios LEDs para información:
 * RX: parpadea cuando el shield recibe datos
 * TX: parpadea cuando el shield envía datos
 
-SENSOR ULTRASONICO HCSR04
+#### SENSOR ULTRASONICO HCSR04
 
 El HC-SR04 es un sensor de distancias por ultrasonidos capaz de detectar objetos y calcular la distancia a
 la que se encuentra en un rango de 2 a 450 cm. El sensor funciona por ultrasonidos y contiene toda la electrónica
@@ -62,7 +62,7 @@ Caracteristicas:
 * Tiempo mínimo de espera entre una medida y el inicio de otra 20 mS.
 
 ## Maeriales
-De Hardware
+#### De Hardware
 
 * Protoboard
 * Arduino Uno
@@ -81,7 +81,7 @@ De Hardware
 * Computadora
 * Maqueta simuladora de web site
 
-De Software
+#### De Software
 
 * Arduino IDE
 * Libreria SPI
